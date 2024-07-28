@@ -50,7 +50,7 @@ O código gera as tabelas de medalhas para todas as edições dos Jogos Olímpic
 Para executar o projeto, siga os passos abaixo:
 
 1. Certifique-se de ter os arquivos `summer.csv`, `wik_1996.csv` e `wik_1976.csv` no mesmo diretório que o notebook.
-2. Abra e execute todas as células do notebook `Comprehensive_Project_Challenge_Solution.ipynb`.
+2. Abra e execute todas as células do notebook `projeto medalhas.ipynb`.
 3. Verifique os resultados das tabelas de medalhas geradas e a divergência calculada.
 
 ## Requisitos
