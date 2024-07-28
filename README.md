@@ -7,11 +7,11 @@ Minimizar a divergência entre as tabelas de medalhas agregadas produzidas pelo 
 
 ## Descrição dos Arquivos
 - - **summer.csv**: Conjunto de dados bruto contendo informações sobre mais de 35.000 medalhas dos Jogos Olímpicos de Verão.
-  - Fonte: [Link para o arquivo summer.csv]([source/link/to/summer.csv](https://www.kaggle.com/datasets/the-guardian/olympic-games/data))
+  - Fonte: [Link para o arquivo summer.csv]([source/link/to/summer.csv](https://www.kaggle.com/datasets/the-guardian/olympic-games/data)
 - **wik_1996.csv**: Tabela oficial de medalhas para a edição de 1996 dos Jogos Olímpicos de Verão.
-  - Fonte: [Link para o arquivo wik_1996.csv]([source/link/to/wik_1996.csv](https://pt.wikipedia.org/wiki/Quadro_de_medalhas_dos_Jogos_Olímpicos_de_Verão_de_1996))
+  - Fonte: [Link para o arquivo wik_1996.csv]([source/link/to/wik_1996.csv](https://pt.wikipedia.org/wiki/Quadro_de_medalhas_dos_Jogos_Olímpicos_de_Verão_de_1996)
 - **wik_1976.csv**: Tabela oficial de medalhas para a edição de 1976 dos Jogos Olímpicos de Verão.
-  - Fonte: [Link para o arquivo wik_1976.csv]([source/link/to/wik_1976.csv](https://pt.wikipedia.org/wiki/Quadro_de_medalhas_dos_Jogos_Olímpicos_de_Verão_de_1976))
+  - Fonte: [Link para o arquivo wik_1976.csv]([source/link/to/wik_1976.csv](https://pt.wikipedia.org/wiki/Quadro_de_medalhas_dos_Jogos_Olímpicos_de_Verão_de_1976)
 
 ## Metodologia
 
