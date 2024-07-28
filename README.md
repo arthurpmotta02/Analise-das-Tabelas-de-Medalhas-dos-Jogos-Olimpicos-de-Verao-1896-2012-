@@ -61,4 +61,4 @@ Para executar o projeto, siga os passos abaixo:
 Sinta-se à vontade para contribuir com melhorias ao projeto. Por favor, envie suas sugestões e melhorias via pull request.
 
 ## Autor
-Este projeto foi desenvolvido como parte de um exercício prático para um estágio em uma empresa de consultoria de Data Science.
+Este projeto foi desenvolvido como forma de exercício.
