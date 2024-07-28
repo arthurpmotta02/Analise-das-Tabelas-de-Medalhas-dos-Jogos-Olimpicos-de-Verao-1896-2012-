@@ -6,10 +6,12 @@ Este projeto tem como objetivo produzir as tabelas oficiais de medalhas dos Jogo
 Minimizar a divergência entre as tabelas de medalhas agregadas produzidas pelo código e as tabelas oficiais para as edições de 1996 e 1976. A divergência é calculada como a diferença absoluta entre o número de medalhas agregadas e o número oficial de medalhas.
 
 ## Descrição dos Arquivos
-
-- **summer.csv**: Conjunto de dados bruto contendo informações sobre mais de 31.000 medalhas dos Jogos Olímpicos de Verão.
+- - **summer.csv**: Conjunto de dados bruto contendo informações sobre mais de 35.000 medalhas dos Jogos Olímpicos de Verão.
+  - Fonte: [Link para o arquivo summer.csv]([source/link/to/summer.csv](https://www.kaggle.com/datasets/the-guardian/olympic-games/data))
 - **wik_1996.csv**: Tabela oficial de medalhas para a edição de 1996 dos Jogos Olímpicos de Verão.
+  - Fonte: [Link para o arquivo wik_1996.csv]([source/link/to/wik_1996.csv](https://pt.wikipedia.org/wiki/Quadro_de_medalhas_dos_Jogos_Olímpicos_de_Verão_de_1996))
 - **wik_1976.csv**: Tabela oficial de medalhas para a edição de 1976 dos Jogos Olímpicos de Verão.
+  - Fonte: [Link para o arquivo wik_1976.csv]([source/link/to/wik_1976.csv](https://pt.wikipedia.org/wiki/Quadro_de_medalhas_dos_Jogos_Olímpicos_de_Verão_de_1976))
 
 ## Metodologia
 
