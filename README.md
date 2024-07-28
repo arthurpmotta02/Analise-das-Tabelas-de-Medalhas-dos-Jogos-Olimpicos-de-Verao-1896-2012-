@@ -1,6 +1,6 @@
-# Análise das Tabelas de Medalhas dos Jogos Olímpicos de Verão (1896-2012)
+# Análise das Tabelas de Medalhas dos Jogos Olímpicos de Verão (1896-2014)
 
-Este projeto tem como objetivo produzir as tabelas oficiais de medalhas dos Jogos Olímpicos de Verão para todas as edições de 1896 a 2012, utilizando um conjunto de dados bruto contendo mais de 31.000 medalhas e as tabelas oficiais de medalhas para as edições de 1996 e 1976 como referência.
+Este projeto tem como objetivo produzir as tabelas oficiais de medalhas dos Jogos Olímpicos de Verão para todas as edições de 1896 a 2014, utilizando um conjunto de dados bruto contendo mais de 35.000 medalhas e as tabelas oficiais de medalhas para as edições de 1996 e 1976 como referência.
 
 ## Objetivo
 Minimizar a divergência entre as tabelas de medalhas agregadas produzidas pelo código e as tabelas oficiais para as edições de 1996 e 1976. A divergência é calculada como a diferença absoluta entre o número de medalhas agregadas e o número oficial de medalhas.
@@ -40,7 +40,7 @@ Minimizar a divergência entre as tabelas de medalhas agregadas produzidas pelo 
 
 ### Passo 6: Criação da Tabela Oficial de Medalhas para Todas as Edições
 
-1. Agregar os dados para formar as tabelas de medalhas para cada edição dos Jogos Olímpicos de Verão de 1896 a 2012.
+1. Agregar os dados para formar as tabelas de medalhas para cada edição dos Jogos Olímpicos de Verão de 1896 a 2014.
 
 ### Passo 7: Comparação com as Tabelas de Medalhas da Wikipedia
 
@@ -48,7 +48,7 @@ Minimizar a divergência entre as tabelas de medalhas agregadas produzidas pelo 
 2. Ajustar o código para minimizar a divergência, buscando alcançar um "Score" de 0, que indica nenhuma divergência absoluta.
 
 ## Resultados
-O código gera as tabelas de medalhas para todas as edições dos Jogos Olímpicos de Verão de 1896 a 2012 e calcula a divergência total para as edições de 1996 e 1976.
+O código gera as tabelas de medalhas para todas as edições dos Jogos Olímpicos de Verão de 1896 a 2014 e calcula a divergência total para as edições de 1996 e 1976.
 
 ## Como Executar
 Para executar o projeto, siga os passos abaixo:
